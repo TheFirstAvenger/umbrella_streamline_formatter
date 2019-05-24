@@ -6,7 +6,8 @@ Before:
 ![Screen Shot 2019-05-24 at 1 34 06 PM](https://user-images.githubusercontent.com/8557871/58346383-c3c88200-7e28-11e9-828a-0ef17c54fe71.png)
 
 After:
-![Screen Shot 2019-05-24 at 1 30 59 PM](https://user-images.githubusercontent.com/8557871/58346394-ca56f980-7e28-11e9-925e-38c15df7f495.png)
+![Screen Shot 2019-05-24 at 3 21 53 PM](https://user-images.githubusercontent.com/8557871/58351815-d7c7b000-7e37-11e9-9024-b3e098df8a3f.png)
+
 
 ## Installation
 
